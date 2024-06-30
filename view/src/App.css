@@ -1,0 +1,17 @@
+.top2{
+    color: white;
+    margin-left:50px ;
+}
+.top2:hover{
+   background-color: red;
+   border-radius: 15px;
+}
+
+.ErrorColor{
+    color: red !important;
+}
+
+.is-invalid {
+    color: red !important; /* Override text color to red */
+    border-color: red !important; /* Optionally, set border color to red */
+  }
